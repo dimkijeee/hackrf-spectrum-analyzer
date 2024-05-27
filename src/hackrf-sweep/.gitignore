@@ -1,7 +1,6 @@
 /.externalToolBuilders
 /.settings
 /bin
-/build
 /obj
 /res
 /lib/hackrf-sweep-jna.jar
